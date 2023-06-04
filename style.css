@@ -1,0 +1,27 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: large;
+}
+
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: small;
+}
+
+.object_name{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px white;
+    background-color: blueviolet;
+}
